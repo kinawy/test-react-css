@@ -1,38 +1,50 @@
+
 .App {
-  text-align: center;
+    height: 800px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    position: center;
+    background-image: url("https://r1.ilikewallpaper.net/iphone-x-wallpapers/download/75510/My-favourite-cloudscape-of-the-year-iphone-x-wallpaper-ilikewallpaper_com_200.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header-tab {
+    background-color: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.video-avi {
+    margin: 85% 40px 0 auto;
 }
+
+.like-btn {
+    margin: 50px 30px 0 auto;
+}
+
+.share-btn {
+    margin: 35px 30px 0 auto;
+}
+
+.btm-nav {
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    /*width: 100%;*/
+}
+
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    color: #61dafb;
 }
