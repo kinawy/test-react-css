@@ -88,17 +88,6 @@ a profile, following hashtags and other users, update your own profile with a bi
 
 
 
-### Analyzing the Bundle Size
+### Sample Text
 
-
-### Making a Progressive Web App
-
-
-### Advanced Configuration
-
-
-### Deployment
-
-
-### `npm run build` fails to minify
 
