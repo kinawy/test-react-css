@@ -10,7 +10,6 @@ import Typography from '@material-ui/core/Typography';
 import Zoom from '@material-ui/core/Zoom';
 import Fab from '@material-ui/core/Fab';
 import AddIcon from '@material-ui/icons/Add';
-// import EditIcon from '@material-ui/icons/Edit';
 import UpIcon from '@material-ui/icons/KeyboardArrowUp';
 import { green } from '@material-ui/core/colors';
 import Box from '@material-ui/core/Box';
@@ -91,12 +90,6 @@ export default function Header() {
       icon: <AddIcon />,
       label: 'Add',
     },
-    // {
-    //   color: 'secondary',
-    //   className: classes.fab,
-    //   icon: <EditIcon />,
-    //   label: 'Edit',
-    // },
     {
       color: 'inherit',
       className: clsx(classes.fab, classes.fabGreen),
@@ -123,18 +116,4 @@ export default function Header() {
     </div>
   );
 }
-
-{/*<SwipeableViews*/}
-      {/*  axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'}*/}
-      {/*  index={value}*/}
-      {/*  onChangeIndex={handleChangeIndex}*/}
-      {/*>*/}
-      {/*  <TabPanel value={value} index={0} dir={theme.direction}>*/}
-      {/*    Videos from who youre following*/}
-      {/*  </TabPanel>*/}
-      {/*  <TabPanel value={value} index={1} dir={theme.direction}>*/}
-      {/*    Videos from hashtags youre following*/}
-      {/*  </TabPanel>*/}
-      {/*</SwipeableViews>*/}
-
 
