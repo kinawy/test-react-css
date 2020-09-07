@@ -1,3 +1,5 @@
+![MIC? False](Images/MIC.svg) ![Open Source](Images/OS.svg)
+
 # Welcome to Uphroia
 
 This is a place to share short form content, much like an app that sounds like TipTop. Maybe you don't want to share all 
@@ -14,6 +16,7 @@ a profile, following hashtags and other users, update your own profile with a bi
 * GraphQL
 * Apollo
 * Material UI
+* JWT
 
 ### Style Guide
 
@@ -88,6 +91,8 @@ a profile, following hashtags and other users, update your own profile with a bi
 
 
 
+
+
 ### Sample Text
 
 Title (A Title Image too if possible…Edit them on canva.com if you are not a graphic designer.)
@@ -97,4 +102,8 @@ Technologies Used
 Special Gotchas of your projects (Problems you faced, unique elements of your project)
 Technical Description of your project like- Installation, Setup, How to contribute.
 
-https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991
+[Hooked on a feeling / Send it](https://giphy.com/gifs/office-chair-dabs-bXvwCQglnTGKs)<br />
+
+<iframe src="https://giphy.com/embed/bXvwCQglnTGKs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/office-chair-dabs-bXvwCQglnTGKs">via GIPHY</a></p>
+
+[HOW YOU SHOULD WRITE YOUR NEXT README.md](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)
